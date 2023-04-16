@@ -1,0 +1,24 @@
+,Description,Code_kinki,Code_tokyo,Code_kyushu,Code_chukyo,Code_higa
+0,Managers,1,9,2,1,9
+1,Technicians and Professionals,2,8,1,2,8
+2,Clerical Assistants,3,7,3,3,7
+3,Sales,4,3,4,4,3
+4,Services,5,4,5,5,5
+5,Security Inspectors,6,6,6,6,6
+6,Argriculture Forestry and Fishery,7,1,7,7,1
+7,Laborer,8,2,9,8,2
+8,Transport,9,5,8,9,4
+9,Architecture and Mining Workers,10,,,10,
+10,Porter Cleaner and Packer,11,,,11,
+11,Other Occupation,12,10,10,12,10
+12,Preschoolers Elementary and Middle School Students,13,11,11,13,
+13,High School Students and above,14,,12,14,
+14,Homemakers,15,14,13,15,15
+15,Inoccupation,16,15,14,16,16
+16,Employed(Detail Unknown) ,21,,,,
+17,Unknown ,99,99,,99,99
+18,High School Students,,12,,,13
+19,Undergraduates and above,,13,,,14
+20,Others,,16,,,17
+21,Preschoolers ,,,,,11
+22,Elementary and Middle School Students,,,,,12

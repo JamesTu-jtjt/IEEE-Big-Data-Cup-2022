@@ -1,0 +1,37 @@
+,Description,Code_kinki,Code_tokyo,Code_kyushu,Code_chukyo,Code_higa
+0,To Work,1,1,1,1,1
+1,To School,2,2,3,2,2
+2,To Home,3,3,,3,3
+3,To Shopping,4,4,12,,
+4,To Eat/Social/Entertainment,5,5,,,6
+5,Other Private Purpose (including To Hospital and Pickup),6,,,,
+6,For Sales/Delivery/Restock/Purchase,7,10,4,18,11
+7,For Meeting/Withdraw/Doctor's Visit,8,11,5,17,12
+8,Repair,9,12,6,19,13
+9,Farm Chores,10,13,10,20,14
+10,Other Business Purpose,11,14,9,21,15
+11,Other Business Purpose,47,14,9,21,15
+12,Back to Work/School,12,,,4,
+13,Free Purpose,46,,,,
+14,Unknown ,99,99,,99,99
+15,To Travel/Leisure,,6,,13,9
+16,To Hospital,,7,15,7,8
+17,Other Private Purpose,,8,18,16,10
+18,Pick up,,9,16,15,7
+19,To Work(Part-time),,,2,,
+20,Back to Work,,,7,,
+21,Back to Work(Part-time),,,8,,
+22,Back to Farm Chores,,,11,,
+23,Social,,,13,10,
+24,Back to School,,,14,,
+25,To Cram/Private School,,,17,8,
+26,To Home (from Work),,,19,,
+27,To Home (from Part-time Work),,,20,,
+28,To Home (from School),,,21,,
+29,To Home (from Others),,,22,,
+30,Daily Shopping/Chores,,,,5,4
+31,Extraordinary Shopping,,,,6,5
+32,To Eat,,,,9,
+33,Entertainment,,,,11,
+34,Go for Stroll,,,,12,
+35,For Volunteer Activity,,,,14,
