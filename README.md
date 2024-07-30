@@ -19,9 +19,3 @@ We would like to express our gratitude to the organizers of the IEEE Big Data Cu
 For any questions or inquiries about our solution or methodology, please feel free to contact us:
 
 - Tu Eng-Shen (James): [jamestu6301@gmail.com](mailto:jamestu6301@gmail.com)
-
-We welcome collaboration and feedback from the community!
-
-```
-
-Make sure to replace the placeholders (such as `[Your Paper Title](link-to-paper.pdf)`, `yourusername`, `Your Name`, and email addresses) with your actual information and links. Additionally, ensure that you have appropriate permissions to share any data or code in your repository, especially if it contains sensitive or proprietary information.
