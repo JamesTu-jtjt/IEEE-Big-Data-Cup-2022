@@ -12,7 +12,7 @@ For a detailed explanation of our methodology, please refer to our paper titled 
 
 ## Acknowledgments
 
-We would like to express our gratitude to the organizers of the IEEE Big Data Cup 2022 for providing an exciting and challenging competition.
+We would like to express our gratitude to the organizers of the IEEE Big Data Cup 2022 for providing an exciting and challenging competition as well as our advisor, Professor Cheng-Te Li, for guiding us throughout the development of our methodology. 
 
 ## Contact
 
